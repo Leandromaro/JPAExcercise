@@ -1,9 +1,9 @@
-package com.javacodegeeks.snippets.enterprise.hibernate.service;
+package com.leandromaro.hibernate.service;
 
 import java.util.List;
 
-import com.javacodegeeks.snippets.enterprise.hibernate.dao.BookDao;
-import com.javacodegeeks.snippets.enterprise.hibernate.model.Book;
+import com.leandromaro.hibernate.dao.BookDao;
+import com.leandromaro.hibernate.model.Book;
 
 public class BookService {
 

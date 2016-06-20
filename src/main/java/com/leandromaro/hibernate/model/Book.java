@@ -1,4 +1,4 @@
-package com.javacodegeeks.snippets.enterprise.hibernate.model;
+package com.leandromaro.hibernate.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

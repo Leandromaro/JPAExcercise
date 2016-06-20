@@ -1,9 +1,9 @@
-package com.javacodegeeks.snippets.enterprise.hibernate;
+package com.leandromaro.hibernate;
 
 import java.util.List;
 
-import com.javacodegeeks.snippets.enterprise.hibernate.model.Book;
-import com.javacodegeeks.snippets.enterprise.hibernate.service.BookService;
+import com.leandromaro.hibernate.model.Book;
+import com.leandromaro.hibernate.service.BookService;
 
 public class App {
 

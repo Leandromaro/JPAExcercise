@@ -1,4 +1,4 @@
-package com.javacodegeeks.snippets.enterprise.hibernate.dao;
+package com.leandromaro.hibernate.dao;
 
 import java.util.List;
 
@@ -8,7 +8,7 @@ import org.hibernate.Transaction;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;
 
-import com.javacodegeeks.snippets.enterprise.hibernate.model.Book;
+import com.leandromaro.hibernate.model.Book;
 
 public class BookDao implements BookDaoInterface<Book, String> {
 

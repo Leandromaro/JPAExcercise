@@ -1,4 +1,4 @@
-package com.javacodegeeks.snippets.enterprise.hibernate.dao;
+package com.leandromaro.hibernate.dao;
 
 import java.io.Serializable;
 import java.util.List;
